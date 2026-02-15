@@ -1,5 +1,3 @@
-markdown# Copyright Notice
-
 ## Guardians of the Shining Light - Prototype Assets
 
 **Copyright © 2026 Dr. Zainab Kidwai & Daniel Bacchus**  
